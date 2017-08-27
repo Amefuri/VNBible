@@ -1,0 +1,6 @@
+framework module Pods_VNBible {
+  umbrella header "Pods-VNBible-umbrella.h"
+
+  export *
+  module * { export * }
+}
